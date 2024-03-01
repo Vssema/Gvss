@@ -1,2 +1,2 @@
 # Gvss
-design by 
+oss 
